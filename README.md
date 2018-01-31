@@ -4,10 +4,11 @@
 
 In January 2018 we [reported on estimates that by 2030 nine areas could lose more than a quarter of jobs to automation and artificial intelligence (AI)](http://www.bbc.co.uk/news/uk-england-42810898).
 
-The data came from a report by [The Centre for Cities](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664563/industrial-strategy-white-paper-web-ready-version.pdf), a copy of which is stored in this repo.
+The data came from a [press release](https://github.com/BBC-Data-Unit/robot-jobs/blob/master/EMBARGOED%20Cities%20Outlook%202018.pdf) for a report by [The Centre for Cities](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664563/industrial-strategy-white-paper-web-ready-version.pdf), copies of which are stored in this repo.
 
 ## Get the data
 
+* PDF: [Press release](https://github.com/BBC-Data-Unit/robot-jobs/blob/master/EMBARGOED%20Cities%20Outlook%202018.pdf)
 * PDF: [The Centre for Cities](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664563/industrial-strategy-white-paper-web-ready-version.pdf) report: Industrial Strategy
 
 ## Visualisation
